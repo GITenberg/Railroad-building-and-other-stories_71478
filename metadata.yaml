@@ -1,0 +1,29 @@
+_repo: Railroad-building-and-other-stories_71478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pansy
+    aliases:
+    - Alden, Isabella Macdonald
+    - Alden, Mrs. G. R. (Isabella)
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: https://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2023-08-24'
+identifiers:
+  gutenberg: '71478'
+language: en
+pgterms:marc905: 20230821135006alden
+pgterms:marc906: '1885'
+pgterms:marc907: US
+publication_note: '  $aBoston :$bD. Lothrop Company, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Railroad building and other stories
+url: http://www.gutenberg.org/ebooks/71478
